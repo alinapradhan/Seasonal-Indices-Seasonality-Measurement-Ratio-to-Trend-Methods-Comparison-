@@ -89,7 +89,4 @@ install.packages(c("forecast", "ggplot2"))
 - Compute and compare seasonal indices using alternative approaches (e.g., centered moving averages, STL-based indices) and quantify differences.
 - Use the derived indices to seasonally adjust the series and then fit forecasting models (ARIMA, ETS) on the seasonally adjusted data.
 
-## License & Contact
-This practical material is provided for educational use. For questions or suggestions, contact the author or the repository maintainer.
 
-```
