@@ -1,0 +1,1 @@
+# Seasonal-Indices-Seasonality-Measurement-Ratio-to-Trend-Methods-Comparison-
